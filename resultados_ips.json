@@ -1,0 +1,122 @@
+[
+    {
+        "IP": "facebook.com",
+        "País": "United States",
+        "Región": "Virginia",
+        "ISP": "Facebook, Inc.",
+        "Coordenadas": {
+            "Latitud": 39.0469,
+            "Longitud": -77.4903
+        }
+    },
+    {
+        "IP": "youtube.com",
+        "País": "United States",
+        "Región": "California",
+        "ISP": "Google LLC",
+        "Coordenadas": {
+            "Latitud": 37.4225,
+            "Longitud": -122.085
+        }
+    },
+    {
+        "IP": "apple.com",
+        "País": "United States",
+        "Región": "California",
+        "ISP": "Apple Inc.",
+        "Coordenadas": {
+            "Latitud": 37.3322,
+            "Longitud": -122.011
+        }
+    },
+    {
+        "IP": "104.160.136.3",
+        "País": "United States",
+        "Región": "California",
+        "ISP": "Riot Games, Inc",
+        "Coordenadas": {
+            "Latitud": 34.0325,
+            "Longitud": -118.457
+        }
+    },
+    {
+        "IP": "mercadolibre.com",
+        "País": "Canada",
+        "Región": "Ontario",
+        "ISP": "Amazon.com, Inc.",
+        "Coordenadas": {
+            "Latitud": 43.6532,
+            "Longitud": -79.3832
+        }
+    },
+    {
+        "IP": "instagram.com",
+        "País": "United States",
+        "Región": "Texas",
+        "ISP": "Facebook, Inc.",
+        "Coordenadas": {
+            "Latitud": 32.7797,
+            "Longitud": -96.8022
+        }
+    },
+    {
+        "IP": "x.com",
+        "País": "Canada",
+        "Región": "Ontario",
+        "ISP": "Cloudflare, Inc.",
+        "Coordenadas": {
+            "Latitud": 43.6532,
+            "Longitud": -79.3832
+        }
+    },
+    {
+        "IP": "whatsapp.com",
+        "País": "United States",
+        "Región": "Virginia",
+        "ISP": "Facebook, Inc.",
+        "Coordenadas": {
+            "Latitud": 39.0469,
+            "Longitud": -77.4903
+        }
+    },
+    {
+        "IP": "reddit.com",
+        "País": "United States",
+        "Región": "California",
+        "ISP": "Fastly, Inc.",
+        "Coordenadas": {
+            "Latitud": 37.7642,
+            "Longitud": -122.3993
+        }
+    },
+    {
+        "IP": "wikipedia.org",
+        "País": "United States",
+        "Región": "California",
+        "ISP": "Wikimedia Foundation Inc.",
+        "Coordenadas": {
+            "Latitud": 37.7892,
+            "Longitud": -122.402
+        }
+    },
+    {
+        "IP": "yahoo.com",
+        "País": "United States",
+        "Región": "Nebraska",
+        "ISP": "Oath Holdings Inc.",
+        "Coordenadas": {
+            "Latitud": 41.1839,
+            "Longitud": -96.0311
+        }
+    },
+    {
+        "IP": "amazon.com",
+        "País": "United States",
+        "Región": "Virginia",
+        "ISP": "Amazon.com, Inc.",
+        "Coordenadas": {
+            "Latitud": 39.0438,
+            "Longitud": -77.4874
+        }
+    }
+]
